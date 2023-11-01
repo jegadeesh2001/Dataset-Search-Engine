@@ -1,0 +1,43 @@
+{
+  "citation": "",
+  "description": "",
+  "features": {
+    "Unnamed: 0": {
+      "dtype": "int64",
+      "_type": "Value"
+    },
+    "url": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "name": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "alternateName": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "description": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "description_tokenized": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "text": {
+      "dtype": "string",
+      "_type": "Value"
+    },
+    "embeddings": {
+      "feature": {
+        "dtype": "float32",
+        "_type": "Value"
+      },
+      "_type": "Sequence"
+    }
+  },
+  "homepage": "",
+  "license": ""
+}
