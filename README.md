@@ -11,6 +11,10 @@
 
 ![chrome-capture-2023-10-1 (1)](https://github.com/jegadeesh2001/Dataset-Search-Engine/assets/62760269/6e3351e5-3f3d-4fb8-841e-a7a8380224f1)
 
+## Team Members
+
+ 1. Jegadeesh Manickam - 19PD15
+ 2. Tarun Gunuguntla - 19PD13
 
 ## Objective
 
